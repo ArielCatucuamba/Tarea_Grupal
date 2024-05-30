@@ -1,3 +1,4 @@
+//Parte Ariel Catucuamba
 public class Animal {
     //Atributos
     String especie;
