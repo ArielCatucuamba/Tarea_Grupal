@@ -1,3 +1,4 @@
+//Parte Ariel Catucuamba
 public class Animal {
     //Atributos
     String especie;
@@ -17,6 +18,7 @@ public class Animal {
         System.out.println("Tamaño: "+tamaño +" cm");
     }
 }
+
 //Parte ISAAC
 class mamifero extends Animal{
     //Atributos
@@ -35,3 +37,4 @@ class mamifero extends Animal{
         System.out.println("Pelaje: "+pelaje);
     }
 }
+
